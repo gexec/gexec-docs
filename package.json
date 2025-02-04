@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "gexec-docs",
+  "version": "0.0.0",
+  "description": "Assets for Gexec documentation",
+  "homepage": "https://github.com/gexec/gexec-docs#readme",
+  "license": "CC-BY-SA-4.0",
+  "author": {
+    "name": "Thomas Boerger",
+    "email": "thomas@webhippie.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gexec/gexec-docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gexec/gexec-docs/issues",
+    "email": "thomas@webhippie.de"
+  },
+  "config": {},
+  "dependencies": {
+    "autoprefixer": "10.4.20",
+    "bootstrap": "5.3.3",
+    "bootstrap-icons": "1.11.3",
+    "postcss": "8.5.1",
+    "postcss-cli": "11.0.0"
+  },
+  "keywords": [
+    "gexec"
+  ]
+}
