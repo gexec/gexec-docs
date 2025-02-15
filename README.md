@@ -7,8 +7,8 @@ you can find this website at [gexec.eu][website].
 
 ## Hosting
 
-The website is hosted on [Netlify][netlify], the website gets automatically
-updated on every push to the `master` branch.
+The website is hosted on an AWS S3 bucket with Cloudfront distribution in front
+of it. The website gets automatically updated on every push to the `master` branch.
 
 ## Install
 
@@ -54,6 +54,5 @@ Copyright (c) 2025 Thomas Boerger <thomas@webhippie.de>
 ```
 
 [website]: https://gexec.eu
-[netlify]: https://www.netlify.co
 [hugo]: https://github.com/spf13/hugo
 [install]: https://gohugo.io/overview/installing/
