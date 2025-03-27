@@ -5,7 +5,7 @@ title: Gexec
 disableKinds: RSS
 
 params:
-  Description: Generic execution platform for Ansible/Terraform/OpenTofu
+  Description: Generic execution platform for Ansible/OpenTofu/Terraform
   Author: Gexec Team
   Website: https://gexec.eu
   Github: gexec
