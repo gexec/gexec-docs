@@ -1,8 +1,10 @@
 ---
 baseurl: /
-languageCode: en-us
+locale: en-us
 title: Gexec
-disableKinds: RSS
+
+disableKinds:
+  - rss
 
 params:
   Description: Generic execution platform for Ansible/OpenTofu/Terraform
