@@ -3,4 +3,4 @@
 [tools]
 hugo-extended = "0.164.0"
 node = "24"
-pre-commit = "4.6.1"
+pre-commit = "4.6.2"
