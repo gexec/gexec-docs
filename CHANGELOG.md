@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/gexec/gexec-docs/compare/v1.0.0...v1.1.0) (2026-08-17)
+
+### Dependencies
+
+* **minor:** update dependency hugo-extended to v0.165.0 ([#87](https://github.com/gexec/gexec-docs/issues/87)) ([7230985](https://github.com/gexec/gexec-docs/commit/72309854c0fe419597a65a8a6d4a2a05131c302f))
+* **patch:** update dependency pre-commit to v4.6.2 ([#86](https://github.com/gexec/gexec-docs/issues/86)) ([52d7c0f](https://github.com/gexec/gexec-docs/commit/52d7c0fb9abaa9db8f07e8b7c23851bf92e05ab5))
+
 ## 1.0.0 (2026-08-10)
 
 ### Features
