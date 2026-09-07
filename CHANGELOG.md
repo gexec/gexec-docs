@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/gexec/gexec-docs/compare/v1.1.0...v1.1.1) (2026-09-07)
+
+### Dependencies
+
+* **patch:** update dependency postcss to v8.5.27 ([#91](https://github.com/gexec/gexec-docs/issues/91)) ([1d11c50](https://github.com/gexec/gexec-docs/commit/1d11c50796f63b3aee0e1ef9f2a7d1d6d9697baf))
+* **patch:** update dependency postcss to v8.5.28 ([#92](https://github.com/gexec/gexec-docs/issues/92)) ([809165d](https://github.com/gexec/gexec-docs/commit/809165d40a6897587d0f6294c437188975fbe635))
+
 ## [1.1.0](https://github.com/gexec/gexec-docs/compare/v1.0.0...v1.1.0) (2026-08-17)
 
 ### Dependencies
