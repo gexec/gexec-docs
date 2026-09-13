@@ -3,4 +3,4 @@
 [tools]
 hugo-extended = "0.166.0"
 node = "24"
-prek = "0.5.2"
+prek = "0.5.3"
