@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.0](https://github.com/gexec/gexec-docs/compare/v1.1.1...v2.0.0) (2026-09-14)
+
+### Dependencies
+
+* **major:** update dependency postcss-cli to v12 ([#95](https://github.com/gexec/gexec-docs/issues/95)) ([4199769](https://github.com/gexec/gexec-docs/commit/4199769950ed5052ba0f26777ea39a13068083ea))
+* **mise:** update dependency hugo-extended to v0.166.0 ([#96](https://github.com/gexec/gexec-docs/issues/96)) ([e5548d5](https://github.com/gexec/gexec-docs/commit/e5548d5f440c9e288028ed46474aca916568ea71))
+* **mise:** update dependency prek to v0.5.3 ([#97](https://github.com/gexec/gexec-docs/issues/97)) ([b6df4d6](https://github.com/gexec/gexec-docs/commit/b6df4d6e843b235139a1c259bc54aaa75cd66491))
+* **patch:** update dependency autoprefixer to v10.5.5 ([#94](https://github.com/gexec/gexec-docs/issues/94)) ([225fc34](https://github.com/gexec/gexec-docs/commit/225fc340c1ab614c9d0c04e2be0394211aee79ee))
+* **patch:** update dependency autoprefixer to v10.5.6 ([#98](https://github.com/gexec/gexec-docs/issues/98)) ([71e9b6d](https://github.com/gexec/gexec-docs/commit/71e9b6df808dc1d73b9099f3ce367900124e1a4f))
+
 ## [1.1.1](https://github.com/gexec/gexec-docs/compare/v1.1.0...v1.1.1) (2026-09-07)
 
 ### Dependencies
