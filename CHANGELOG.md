@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/gexec/gexec-docs/compare/v2.0.0...v2.1.0) (2026-09-21)
+
+### Dependencies
+
+* **minor:** update dependency autoprefixer to v10.6.0 ([#100](https://github.com/gexec/gexec-docs/issues/100)) ([57879a1](https://github.com/gexec/gexec-docs/commit/57879a127eb789c496b8cf985755a8d1b7482eb3))
+* **patch:** update dependency autoprefixer to v10.6.1 ([#101](https://github.com/gexec/gexec-docs/issues/101)) ([ed2e290](https://github.com/gexec/gexec-docs/commit/ed2e2909342b8355cb550bd8b02bfc8b517c6c38))
+
 ## [2.0.0](https://github.com/gexec/gexec-docs/compare/v1.1.1...v2.0.0) (2026-09-14)
 
 ### Dependencies
