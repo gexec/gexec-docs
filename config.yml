@@ -37,4 +37,7 @@ module:
     - source: node_modules/bootstrap/dist/js/bootstrap.bundle.min.js
       target: assets/vendor/bootstrap.js
 
+    - source: node_modules
+      target: assets/node_modules
+
 ...
