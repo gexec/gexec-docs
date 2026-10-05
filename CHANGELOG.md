@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.1](https://github.com/gexec/gexec-docs/compare/v2.1.0...v2.1.1) (2026-10-05)
+
+### Bugfixes
+
+* allow loading assets from node_modules ([7c92b04](https://github.com/gexec/gexec-docs/commit/7c92b04a24f587267a72192dc438f836231d35ca))
+
+### Dependencies
+
+* **mise:** update dependency hugo-extended to v0.167.0 ([0921a55](https://github.com/gexec/gexec-docs/commit/0921a55b9dc2f575ecfc8ce4e8f8fd02b6f3c8c7))
+* **mise:** update dependency prek to v0.5.4 ([#104](https://github.com/gexec/gexec-docs/issues/104)) ([7872a1d](https://github.com/gexec/gexec-docs/commit/7872a1d1f39e73ef54314a71fde5f5268b13f0e3))
+* **mise:** update dependency prek to v0.5.5 ([#108](https://github.com/gexec/gexec-docs/issues/108)) ([921c17d](https://github.com/gexec/gexec-docs/commit/921c17da41d7b5aa9a3f25c1dab2d746244250bc))
+
 ## [2.1.0](https://github.com/gexec/gexec-docs/compare/v2.0.0...v2.1.0) (2026-09-21)
 
 ### Dependencies
