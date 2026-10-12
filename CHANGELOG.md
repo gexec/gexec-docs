@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.2](https://github.com/gexec/gexec-docs/compare/v2.1.1...v2.1.2) (2026-10-12)
+
+### Dependencies
+
+* **patch:** update dependency bootstrap-icons to v1.13.2 ([#110](https://github.com/gexec/gexec-docs/issues/110)) ([bf27c77](https://github.com/gexec/gexec-docs/commit/bf27c77dc1829e31110857bda1af6f7aa2a25908))
+* **patch:** update dependency postcss to v8.5.29 ([#109](https://github.com/gexec/gexec-docs/issues/109)) ([12291dd](https://github.com/gexec/gexec-docs/commit/12291ddedbf1ea4e11e1c957840e8a41fe086941))
+
 ## [2.1.1](https://github.com/gexec/gexec-docs/compare/v2.1.0...v2.1.1) (2026-10-05)
 
 ### Bugfixes
