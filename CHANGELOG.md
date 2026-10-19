@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.3](https://github.com/gexec/gexec-docs/compare/v2.1.2...v2.1.3) (2026-10-19)
+
+### Dependencies
+
+* **mise:** update dependency hugo-extended to v0.168.0 ([#112](https://github.com/gexec/gexec-docs/issues/112)) ([52bf3ce](https://github.com/gexec/gexec-docs/commit/52bf3ce9aa851de498acb1b3efb6baef26c5790d))
+* **mise:** update dependency prek to v0.5.6 ([#115](https://github.com/gexec/gexec-docs/issues/115)) ([b2e05d0](https://github.com/gexec/gexec-docs/commit/b2e05d0b7754575400a1d0b64ab24fc3adcf2ce7))
+* **patch:** update dependency postcss to v8.5.30 ([#113](https://github.com/gexec/gexec-docs/issues/113)) ([b617815](https://github.com/gexec/gexec-docs/commit/b617815746d0b51daa505d7855076335dd088cc7))
+
 ## [2.1.2](https://github.com/gexec/gexec-docs/compare/v2.1.1...v2.1.2) (2026-10-12)
 
 ### Dependencies
