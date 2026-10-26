@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.4](https://github.com/gexec/gexec-docs/compare/v2.1.3...v2.1.4) (2026-10-26)
+
+### Dependencies
+
+* **mise:** update dependency prek to v0.5.7 ([#116](https://github.com/gexec/gexec-docs/issues/116)) ([b830661](https://github.com/gexec/gexec-docs/commit/b83066152265cd8c5d1c24986328c44cbb410106))
+* **patch:** update dependency postcss to v8.5.31 ([#117](https://github.com/gexec/gexec-docs/issues/117)) ([e7c8435](https://github.com/gexec/gexec-docs/commit/e7c84354587f378abcc2ae9955517bd5be3cb3af))
+
 ## [2.1.3](https://github.com/gexec/gexec-docs/compare/v2.1.2...v2.1.3) (2026-10-19)
 
 ### Dependencies
