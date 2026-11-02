@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.1.5](https://github.com/gexec/gexec-docs/compare/v2.1.4...v2.1.5) (2026-11-02)
+
+### Dependencies
+
+* **mise:** update dependency hugo-extended to v0.169.0 ([#119](https://github.com/gexec/gexec-docs/issues/119)) ([046e625](https://github.com/gexec/gexec-docs/commit/046e625a4bd9ac3316a8d560963f2081dbb3292a))
+* **mise:** update dependency prek to v0.5.9 ([#123](https://github.com/gexec/gexec-docs/issues/123)) ([e1a7792](https://github.com/gexec/gexec-docs/commit/e1a7792830297b611155da16ebd6e6f6f5d1553f))
+* **mise:** update node.js to v26 ([#120](https://github.com/gexec/gexec-docs/issues/120)) ([5402bf0](https://github.com/gexec/gexec-docs/commit/5402bf0795c2d2acc4543fb1731464072472d110))
+* **patch:** update dependency autoprefixer to v10.6.2 ([#122](https://github.com/gexec/gexec-docs/issues/122)) ([56da2cf](https://github.com/gexec/gexec-docs/commit/56da2cf5437138eb4991ab299d9e4f19d9f69372))
+* **patch:** update dependency postcss to v8.5.32 ([#121](https://github.com/gexec/gexec-docs/issues/121)) ([575ded0](https://github.com/gexec/gexec-docs/commit/575ded097adf780a05b9108c0f2bb18860e09d16))
+
 ## [2.1.4](https://github.com/gexec/gexec-docs/compare/v2.1.3...v2.1.4) (2026-10-26)
 
 ### Dependencies
