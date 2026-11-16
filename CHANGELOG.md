@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.1.6](https://github.com/gexec/gexec-docs/compare/v2.1.5...v2.1.6) (2026-11-16)
+
+* automated release update [skip ci] ([5f03e8a](https://github.com/gexec/gexec-docs/commit/5f03e8a64cd899d5afcb172590147372b5ed9a80))
+* **locks:** lock file maintenance ([1df50ef](https://github.com/gexec/gexec-docs/commit/1df50ef4bc8d76fc7dada267b4816e732d79bd9f))
+
+### Dependencies
+
+* **mise:** update dependency prek to v0.5.10 ([#124](https://github.com/gexec/gexec-docs/issues/124)) ([748bcd3](https://github.com/gexec/gexec-docs/commit/748bcd343ac571de31d5cc1afa33a3ce2d366119))
+* **mise:** update dependency prek to v0.5.11 ([#128](https://github.com/gexec/gexec-docs/issues/128)) ([593ae22](https://github.com/gexec/gexec-docs/commit/593ae22f3cf9e4df0f4d04ff424a46f8163ae516))
+* **patch:** update dependency bootstrap to v5.3.9 ([#125](https://github.com/gexec/gexec-docs/issues/125)) ([995a5c6](https://github.com/gexec/gexec-docs/commit/995a5c6d140ba89bb52bf682ddf45bb845a50938))
+
 ## [2.1.5](https://github.com/gexec/gexec-docs/compare/v2.1.4...v2.1.5) (2026-11-02)
 
 ### Dependencies
