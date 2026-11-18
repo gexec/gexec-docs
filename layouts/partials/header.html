@@ -30,7 +30,7 @@
 			<link href="{{ . }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
 		{{ end }}
 
-		{{ $options := (dict "targetPath" "docs.css" "outputStyle" "compressed" "enableSourceMap" true) }}
+		{{ $options := (dict "targetPath" "docs.css" "outputStyle" "compressed" "enableSourceMap" true "silenceDeprecations" (slice "import" "if-function" "global-builtin" "color-functions")) }}
 		{{ $style := resources.Get "docs.scss" | css.Sass $options | css.PostCSS | resources.Minify | resources.Fingerprint "sha512" }}
 		<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
 	</head>
