@@ -12,6 +12,10 @@ params:
   Website: https://gexec.eu
   Github: gexec
 
+security:
+  allowContent:
+    - '! ^text/org$'
+
 module:
   mounts:
     - source: content
