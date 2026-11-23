@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.2.0](https://github.com/gexec/gexec-docs/compare/v2.1.6...v2.2.0) (2026-11-23)
+
+* **locks:** lock file maintenance ([#131](https://github.com/gexec/gexec-docs/issues/131)) ([53ec2b8](https://github.com/gexec/gexec-docs/commit/53ec2b8a7a8d23bea00bc95b2d558294411d9b7c))
+
+### Dependencies
+
+* **minor:** update dependency autoprefixer to v10.7.0 ([#130](https://github.com/gexec/gexec-docs/issues/130)) ([9da1279](https://github.com/gexec/gexec-docs/commit/9da12799149c118e646b606ab6fb9bfe3f8bfd3c))
+* **mise:** update dependency hugo-extended to v0.170.0 ([#126](https://github.com/gexec/gexec-docs/issues/126)) ([5603f26](https://github.com/gexec/gexec-docs/commit/5603f26f6f9326d33b461b1385fe161ad62e22c5))
+* **patch:** update dependency postcss to v8.5.33 ([#129](https://github.com/gexec/gexec-docs/issues/129)) ([41a4920](https://github.com/gexec/gexec-docs/commit/41a49207054f10085f5dfef2f7809bff75d37b17))
+
 ## [2.1.6](https://github.com/gexec/gexec-docs/compare/v2.1.5...v2.1.6) (2026-11-16)
 
 * automated release update [skip ci] ([5f03e8a](https://github.com/gexec/gexec-docs/commit/5f03e8a64cd899d5afcb172590147372b5ed9a80))
